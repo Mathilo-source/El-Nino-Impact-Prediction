@@ -4,7 +4,7 @@ Machine learning pipeline linking seasonal climate (ERA5-Land) to county-level m
 
 **Status:** exploratory. Yield is an annual total, the record is short, and model skill is modest (leave-one-year-out R2 about 0.39). Read the results as a scenario, not a yield forecast.
 
-Author: [Your name]
+Author: Debra
 
 ## Pipeline (run in this order)
 
