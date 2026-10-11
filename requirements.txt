@@ -1,0 +1,10 @@
+numpy
+pandas
+openpyxl
+xarray
+netCDF4
+geopandas
+regionmask
+scikit-learn
+matplotlib
+cdsapi

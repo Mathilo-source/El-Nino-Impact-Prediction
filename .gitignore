@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Large, regenerable climate downloads (re-download from the Copernicus CDS)
+*.nc
+
+# Secrets and local settings: never commit these
+.cdsapirc
+.env
+.vscode/
+
+# OS files
+Thumbs.db
+.DS_StoreMaize-Production-2012-2020-Combined.xlsx
+Maize-Production-2012-2020-Combined.xlsx
